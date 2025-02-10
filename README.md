@@ -1,8 +1,7 @@
-# React + Vite
+# TrekBag
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TrekBag is a React-based packing list application that helps users organize their trips efficiently.
 
-Currently, two official plugins are available:
+Developed as part of an online course, it enables users to add, mark as packed, delete, and clear all items in their packing list.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The app uses Zustand for state management to ensure smooth performance and efficient state handling. Built with Vite, TrekBag provides a user-friendly way to manage travel essentials.
